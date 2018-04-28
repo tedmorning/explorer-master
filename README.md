@@ -1,6 +1,6 @@
-# ETHExplorer V2 based off github.com/etherparty/explorer
+# TEDExplorer V2
 
-![ETHExplorer V2 Screenshot](http://i.imgur.com/wgROAS9.png)
+![TEDExplorer V2 Screenshot](http://i.imgur.com/wgROAS9.png)
 
 ## License
 
@@ -14,9 +14,9 @@ Discuss this project at: [Reddit Page on /r/ethreum](https://www.reddit.com/r/et
 
 ## Donations
 
-ETH Address: 0xee298ae561bD7BE6e1040AFf281202E0b0646BA6
+ETH Address: 0x7726d486f89497c284dd0e840bb23ffd8aef5e9f
 
-BTC Address: 1AGxSzTPkthdNKfY5usVLwKDLk9i6sPTQj
+BTC Address: 35DgGsoJpPtZo1eWXCbTUbWLR1JeD9UQms
 
 ## Installation
 
